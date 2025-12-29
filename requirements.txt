@@ -1,0 +1,5 @@
+flask
+google-cloud-speech
+google-cloud-texttospeech
+python-dotenv
+gunicorn
