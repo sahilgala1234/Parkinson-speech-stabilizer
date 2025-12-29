@@ -1,7 +1,9 @@
 # AI Speech Stabilizer
 
 An AI-powered web application designed to assist individuals with Parkinson’s disease by stabilizing and amplifying their speech in real-time.
-![Uploading image.png…]()
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/49735937-92c5-4dd6-82c1-851a1bb86999" />
+
 
 ## Features
 -   **Voice Stabilization**: Converts soft or slurred speech into clear, authoritative audio.
